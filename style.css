@@ -1,0 +1,19 @@
+body {font-family: 'Open Sans', sans-serif;
+    text-align: center}
+
+img {width: 100%;
+    height: auto;}
+
+iframe.airtable-embed {
+    max-width: 500px;}
+
+.monzoitem a {background: #676767;
+padding: 10px;
+color: white;
+text-decoration: none;
+border-radius: 6px;
+flex: right;
+margin-left: 10px;}
+
+
+.centertext{}
