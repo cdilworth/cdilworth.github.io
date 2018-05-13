@@ -222,13 +222,15 @@ footer a{
 }
 
 .details{
+  display:block;
+  height:auto;
   border-style:solid;
   border-color: RGBa(196, 172, 196,0.6) ;
   border-radius: 5px;
   padding: 25px;
   margin:5px;
   width: 20%;
-  height:200px;
+  overflow:hidden;
 }
 
 .details h3{
@@ -242,6 +244,8 @@ footer a{
   margin:1px;
   text-align: center;
   width:100%;
+
+
 }
 
 .longcontainer{
@@ -307,4 +311,6 @@ footer a{
   margin: 5px;
   font-size: 1em;
 }
+
+
   }
